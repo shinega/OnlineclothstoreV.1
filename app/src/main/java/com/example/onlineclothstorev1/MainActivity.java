@@ -8,6 +8,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import java.util.List;
 
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickLogin(View v){
 
+        Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
 
 //        EditText username=(EditText)findViewById(R.id.Username);
 //        EditText password=(EditText)findViewById(R.id.password);
