@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OnlineclothstoreV.1</string>
+    <string name="title_activity_register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm-Password</string>
+<!--    <string name="username">Username</string>-->
+<!--    <string name="password">Password</string>-->
+    <string name="title_activity_view_cart">ViewCart</string>
+    <string name="title_activity_categories">Categories</string>
+</resources>

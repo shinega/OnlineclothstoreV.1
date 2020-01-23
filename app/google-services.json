@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462142298993",
+    "firebase_url": "https://onlineclothstore-bf121.firebaseio.com",
+    "project_id": "onlineclothstore-bf121",
+    "storage_bucket": "onlineclothstore-bf121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462142298993:android:e9765fe484dc76a03e34d0",
+        "android_client_info": {
+          "package_name": "com.example.onlineclothstorev1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462142298993-i8hkt1r3a76ig310m94lvv9r474ev3e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineclothstorev1",
+            "certificate_hash": "1c085056090594f7c90cb1dcca314c331941ac96"
+          }
+        },
+        {
+          "client_id": "462142298993-h08beqo8eds6emngcqs641ne5ce3t60u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5PjZlokpi76cCWTKFZelUAevSjHodCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462142298993-h08beqo8eds6emngcqs641ne5ce3t60u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
